@@ -1,0 +1,6 @@
+sumo-rl
+stable-baselines3[extra]
+numpy
+pandas
+seaborn
+matplotlib
